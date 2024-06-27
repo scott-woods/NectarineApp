@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NectarineApp", "NectarineApp\NectarineApp.csproj", "{A44F75CC-BA18-457B-AC84-FE1B806F5F2B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NectarineApi", "NectarineApi\NectarineApi.csproj", "{A44F75CC-BA18-457B-AC84-FE1B806F5F2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
