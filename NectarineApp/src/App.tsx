@@ -1,5 +1,5 @@
 import './App.css'
-import { Route, Router, RouterProvider, Routes, createBrowserRouter, createRoutesFromElements } from 'react-router-dom'
+import { Route, RouterProvider, createBrowserRouter, createRoutesFromElements } from 'react-router-dom'
 import Home from './pages/Home'
 import '@mantine/core/styles.css';
 import '@mantine/core/styles.css'

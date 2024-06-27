@@ -1,4 +1,4 @@
-import { Grid, Title, Text, Flex } from "@mantine/core";
+import { Title, Text, Flex } from "@mantine/core";
 import { SliderInput } from "../shared/SliderInput/SliderInput";
 import { useEffect } from "react";
 

@@ -1,7 +1,6 @@
-import { ActionIcon, Button, Card, Code, Collapse, Container, Flex, Grid, Group, ScrollArea, Slider, Stack, Tabs, Text, TextInput, Title, Tooltip } from "@mantine/core";
-import { useEffect, useState } from "react";
-import { SliderInput } from "../components/shared/SliderInput/SliderInput";
-import { IconChevronDown, IconChevronUp, IconCode, IconNumbers } from "@tabler/icons-react";
+import { Card, Code, Container, Flex, Grid, ScrollArea, Tabs, Text } from "@mantine/core";
+import { useState } from "react";
+import { IconCode, IconNumbers } from "@tabler/icons-react";
 import { solverCode } from "../constants";
 import BubbliciousSolver from "../components/Home/BubbliciousSolver";
 
